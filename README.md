@@ -28,7 +28,7 @@ After all, sometimes a picture is worth a thousand words 😉!
 ## Getting Started
 - Clone the repo
 ```ssh
-git clone git@github.com:ParasRaian01/Emoji-Search.git
+git clone git@github.com:ParasRaina01/Emoji-Search.git
 ```
 - Install npm packages
 ```ssh
